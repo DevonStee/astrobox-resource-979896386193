@@ -47,7 +47,5 @@
       "versionCode": 0
     }
   },
-  "ext": {
-    "enableAstroBoxCreatorFeatures": true
-  }
+  "ext": {}
 }
