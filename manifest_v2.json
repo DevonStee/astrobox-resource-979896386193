@@ -21,36 +21,68 @@
   "links": [
     {
       "title": "小红书链接",
-      "url": "https://xhslink.cn/o/5nHMtYcKGgk",
+      "url": "https://xhslink.cn/o/8ierYJqmfrs",
       "icon": "book-bookmark"
     }
   ],
   "downloads": {
     "xmb10": {
-      "version": "0.0.0",
+      "version": "0.0.2",
       "file_name": "downloads/Ladder.bin",
-      "versionCode": 0
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "新增小米手环 9 支持"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "0.0.0",
+      "version": "0.0.2",
       "file_name": "downloads/Ladder.bin",
-      "versionCode": 0
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "新增小米手环 9 支持"
+        }
+      ]
     },
     "xmb11": {
-      "version": "0.0.0",
+      "version": "0.0.2",
       "file_name": "downloads/Ladder.bin",
-      "versionCode": 0
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "新增小米手环 9 支持"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "0.0.0",
+      "version": "0.0.2",
       "file_name": "downloads/Ladder.bin",
-      "versionCode": 0
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.0.2",
+          "content": "新增小米手环 9 支持"
+        }
+      ]
     },
     "xmb9": {
       "version": "0.0.0",
-      "file_name": "downloads/Ladder_band9.bin",
-      "versionCode": 0
+      "file_name": "downloads/Ladder-xmb9.bin",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 支持（专用包，已实机测试）"
+        }
+      ]
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
